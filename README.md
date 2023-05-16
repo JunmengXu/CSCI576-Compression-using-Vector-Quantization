@@ -31,3 +31,6 @@ EXTRA CREDIT
 Extend the implementation for M = perfect square
 Follow steps 1 through 5, but advance the algorithm to deal with higher dimensional representations.
 Given a value for M, and N, the output picks out the best and most appropriate N square block, the size of the square will depend on M.
+
+
+![Alt text](/assignment2.png?raw=true "Title")
